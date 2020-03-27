@@ -3,7 +3,7 @@
 - name: AmazonsAI
   link: amazonsai/index.html
   photo: amazons.png
-  github: none
+  github: https://github.com/aquarial/webassembly-amazons-ai
   website: none
 - name: Orbit
   link: orbit.html
